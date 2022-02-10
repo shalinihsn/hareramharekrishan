@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>harekrishan.all</groupId>
-	<artifactId>HareKrishanDivineBooksMicroService</artifactId>
+	<artifactId>HareKrishanDivineBooksCatalogueMicroService</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>HareKrishanDivineBooksMicroService</name>
+	<name>HareKrishanDivineBooksCatalogueMicroService</name>
 	<description>Demo project for Spring Boot</description>
 
 	<properties>
